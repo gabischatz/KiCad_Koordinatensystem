@@ -36,35 +36,35 @@ same file.
 <h4>Description</h4>
 <p>
 <dl>
-  <dt>After installation, go to the PCB editor and double click on the
-  worksheet frame.<br /></dt>
-  <dd><img src="drawing_sheet.png" alt="" title="" /></dd>
+  <dt>Let's go</dt><dd>After installation, go to the PCB editor and double click on the
+  worksheet frame.<br />
+  <img src="drawing_sheet.png" alt="" title="" /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
-  <dt>Now the worksheet wizard opens and with one click, see red arrow,
-  you can select the worksheet you just saved.<br /></dt>
-  <dd><img src="Select_character_sheet.png" alt="" title="" /></dd>
+  <dt>Next Step</dt><dd>Now the worksheet wizard opens and with one click, see red arrow,
+  you can select the worksheet you just saved.<br />
+  <img src="Select_character_sheet.png" alt="" title="" /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
-  <dt>On the next picture you can see how I drew a circle from the
-  center and declared this as the board boundary.<br /></dt>
-  <dd><img src="PCB_editor.png" alt="" title="" /></dd>
+  <dt>Next Step</dt><dd>On the next picture you can see how I drew a circle from the
+  center and declared this as the board boundary.<br />
+  <img src="PCB_editor.png" alt="" title="" /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
-  <dt>Finally, you will see the finished board. Now select everything
-  and use the lock to lock the components.<br /></dt>
-  <dd><img src="PCB_board.png" alt="" title="" /></dd>
+  <dt>Next Step</dt><dd>Finally, you will see the finished board. Now select everything
+  and use the lock to lock the components.<br />
+  <img src="PCB_board.png" alt="" title="" /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
-  <dt>You now have the option to reload your original worksheet as
+  <dt>Next Step</dt><dd>You now have the option to reload your original worksheet as
   described above and fill in the label. Now mark the board again and
   move it to the middle of your worksheet. There is a query as to
-  whether the locked elements should be moved. Click Ignore Ban.<br /></dt>
-  <dd><img src="Ignore_Ban.png" alt="" title="" /></dd>
+  whether the locked elements should be moved. Click Ignore Ban.<br />
+  <img src="Ignore_Ban.png" alt="" title="" /></dd>
    Don't forget to save your project! <b>:)</b>
   <!-- Other terms and descriptions -->
 </dl>
