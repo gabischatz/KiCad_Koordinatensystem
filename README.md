@@ -38,25 +38,25 @@ same file.
 <dl>
   <dt>Let's go</dt><dd>After installation, go to the PCB editor and double click on the
   worksheet frame.<br />
-  <img src="drawing_sheet.png" alt="" title="" /></dd>
+  <img src="drawing_sheet.png" alt="" title="Gehen Sie nach der Installation zum PCB-Editor und doppelklicken Sie auf den Arbeitsblattrahmen." /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
   <dt>Next Step</dt><dd>Now the worksheet wizard opens and with one click, see red arrow,
   you can select the worksheet you just saved.<br />
-  <img src="Select_character_sheet.png" alt="" title="" /></dd>
+  <img src="Select_character_sheet.png" alt="" title="Nun öffnet sich der Arbeitsblatt-Assistent und mit einem Klick, siehe roter Pfeil, können Sie das soeben gespeicherte Arbeitsblatt auswählen." /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
   <dt>Next Step</dt><dd>On the next picture you can see how I drew a circle from the
   center and declared this as the board boundary.<br />
-  <img src="PCB_editor.png" alt="" title="" /></dd>
+  <img src="PCB_editor.png" alt="" title="Auf dem nächsten Bild sieht man, wie ich von der Mitte aus einen Kreis gezeichnet und diesen als Brettbegrenzung deklariert habe." /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
   <dt>Next Step</dt><dd>Finally, you will see the finished board. Now select everything
   and use the lock to lock the components.<br />
-  <img src="PCB_board.png" alt="" title="" /></dd>
+  <img src="PCB_board.png" alt="" title="Schließlich sehen Sie das fertige Board. Wählen Sie nun alles aus und verwenden Sie das Schloss, um die Komponenten zu sperren." /></dd>
   <!-- Other terms and descriptions -->
 </dl>
 <dl>
@@ -64,7 +64,7 @@ same file.
   described above and fill in the label. Now mark the board again and
   move it to the middle of your worksheet. There is a query as to
   whether the locked elements should be moved. Click Ignore Ban.<br />
-  <img src="Ignore_Ban.png" alt="" title="" /></dd>
+  <img src="Ignore_Ban.png" alt="" title="Es erfolgt eine Abfrage, ob die gesperrten Elemente verschoben werden sollen. Klicken Sie auf Verbot ignorieren." /></dd>
    Don't forget to save your project! <b>:)</b>
   <!-- Other terms and descriptions -->
 </dl>
