@@ -64,7 +64,7 @@ same file.
   described above and fill in the label. Now mark the board again and
   move it to the middle of your worksheet. There is a query as to
   whether the locked elements should be moved. Click Ignore Ban.<br />
-  <img src="Ignore_Ban.png" alt="" title="Es erfolgt eine Abfrage, ob die gesperrten Elemente verschoben werden sollen. Klicken Sie auf Verbot ignorieren." /></dd>
+  <img src="Ignore_Ban.png" alt="" title="Es erfolgt eine Abfrage, ob die gesperrten Elemente verschoben werden sollen. Klicken Sie auf Sprrung ignorieren." /></dd>
    Don't forget to save your project! <b>:)</b>
   <!-- Other terms and descriptions -->
 </dl>
